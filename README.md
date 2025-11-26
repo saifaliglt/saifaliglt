@@ -94,7 +94,7 @@ const saifAli = {
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_saifaly)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifaliglt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ali-123abc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifaliglt)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017fb20704037092d4)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -175,7 +175,7 @@ const saifAli = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=saifalyglt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=saifaliglt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7)
 
 </div>
 
@@ -185,7 +185,7 @@ const saifAli = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifalyglt&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifaliglt&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%">
 
 </div>
 
@@ -206,9 +206,9 @@ const saifAli = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saifalyglt/saifalyglt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saifalyglt/saifalyglt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saifalyglt/saifalyglt/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saifaliglt/saifalyglt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saifaliglt/saifalyglt/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saifaliglt/saifalyglt/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -219,9 +219,9 @@ const saifAli = {
 
 ### 💭 "Code is poetry, algorithms are art, and bugs are... character-building experiences" 
 
-<img src="https://komarev.com/ghpvc/?username=saifalyglt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=saifaliglt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-### ⭐ From [saifalyglt](https://github.com/saifalyglt) with 💙
+### ⭐ From [saifaliglt](https://github.com/saifaliglt) with 💙
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
