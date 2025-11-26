@@ -161,11 +161,11 @@ const saifAli = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifalyglt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=saifalyglt&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifaliglt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=saifaliglt&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifalyglt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifalyglt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaliglt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifaliglt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" />
 
 </div>
 
